@@ -1,4 +1,7 @@
 //	Backup Programm	//
+// interrupt the realtime backup with strg+C
+// use it only with text files like .txt or something like that...not for .odt files...or Microsoft open office
+// compile: gcc backup.c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
