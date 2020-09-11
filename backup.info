@@ -1,0 +1,18 @@
+Usage for Backup programm:
+
+OS:Linux
+Backup files: use only text files with no extra protocol like .odt or Microsoft office Documents have...
+  use only: .txt files ore just normal text files
+
+compile: gcc backup.c -o backup.exe 
+          - or youe an other name after -o ....
+         
+run it:
+sudo ./backup.exe
+      your output Name of the compiled Program...
+
+don´t do!!!!
+chmod +s ./backup.exe
+because that would make some big security risks!!!
+
+Have fun :)
